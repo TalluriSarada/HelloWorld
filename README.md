@@ -1,3 +1,3 @@
 # HelloWorld
 HelloWorld
-print(" I Love" :tea: :pizza:)
+ I Love :tea: :pizza:
