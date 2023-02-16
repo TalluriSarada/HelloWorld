@@ -12,7 +12,7 @@ def intro(a, b="Bond"):
     print("My name is", b + ".", a + ".")
 
 intro("Susan")
-#syntax error
+#syntax error a non-default argument c  follows a default argument b
 def add_numbers(a, b=2, c):
     print(a + b + c)
 
