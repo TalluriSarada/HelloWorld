@@ -31,6 +31,7 @@ from math import sin, pi
 
 print(sin(pi / 2))
 
+#code to print the names of all entities within the math module:
 import math
 
 for name in dir(math):
